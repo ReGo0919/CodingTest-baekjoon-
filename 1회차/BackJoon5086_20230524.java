@@ -6,8 +6,8 @@ import java.util.StringTokenizer;
 public class BackJoon5086_20230524 {
 
     public static void main(String[] args) throws IOException, IOException {
-    /* 이번엔 while문을 연습 할 겸 같이 사용을 해주었다.
-     */
+        /* 이번엔 while문을 연습 할 겸 같이 사용을 해주었다.
+         */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int count = 0;
 //      만 번 까지 셀 카운트 설정
@@ -43,6 +43,5 @@ public class BackJoon5086_20230524 {
 
     }
 }
-
 
 
